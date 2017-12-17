@@ -1,0 +1,40 @@
+Here are topics that are covered for SQL server.
+
+ 
+
+1.    Joins – inner join, outer join, self join (using with clause) 
+
+2.    Grouping
+
+3.    Paging using fetch next and offset
+
+4.    Pivoting
+
+5.    Merge
+
+6.    Format functions for date 
+
+7.    Format function for number – showing currency in specific format.
+
+8.    RANK and ROW_NUMBER
+
+
+========================
+Pivoting demo
+https://stackoverflow.com/questions/15931607/convert-rows-to-columns-using-pivot-in-sql-server -- Done
+https://technet.microsoft.com/en-us/library/ms177410(v=sql.105).aspx -- done
+
+Common table expressions
+https://docs.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql -- done
+
+paging with SQL 2012
+http://www.dofactory.com/sql/order-by-offset-fetch -- Done
+https://raresql.com/2012/07/01/sql-paging-in-sql-server-2012-using-order-by-offset-and-fetch-next/ -- Done
+
+Merge statement
+https://docs.microsoft.com/en-us/sql/t-sql/statements/merge-transact-sql -- done
+
+User defined functions in SQL
+http://dotnetmentors.com/sql/user-defined-functions-in-sql-server.aspx
+
+
